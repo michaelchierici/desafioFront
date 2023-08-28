@@ -6,7 +6,8 @@ Implementar uma aplicação client-side, que consulte a API do GitHub e mostre o
 **API**: [https://developer.github.com/v3/](https://developer.github.com/v3/)
 
 ### **Requisitos técnicos** ###
-* **Não utilizar frameworks** React, Vue, Angular, etc.
+* **Preferencialmente não utilizar frameworks** React, Vue, Angular, etc.
+* * Utilizar React não será eliminatório
 * É obrigatório o uso de rotas.
 * Pode usar jquery, porém **Fetch API** é mais legal.
 * O layout deve ser responsivo, seguindo os padrões Bootstrap.
