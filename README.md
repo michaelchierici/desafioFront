@@ -9,7 +9,7 @@ Implementar uma aplicação client-side, que consulte a API do GitHub e mostre o
 * **Preferencialmente não utilizar frameworks** Vue, Angular, etc.
 * * Utilizar React não será eliminatório
 * É obrigatório o uso de rotas.
-* Pode usar jquery, porém **Fetch API** é mais legal.
+* Pode usar jquery ou Fetch API, porém **axios** é mais legal.
 * O layout deve ser responsivo, seguindo os padrões Bootstrap.
 
 ### **Requisitos de negócio** ###
